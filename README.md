@@ -39,6 +39,3 @@ Koşullu işlemler (`&&`, `||`) gerektirmediğinden dolayı **`if-else` yerine d
 5. Fiyat ekrana yazdırılacaktır.
 
 ---
-
-## 📌 Örnek Çıktı
-
