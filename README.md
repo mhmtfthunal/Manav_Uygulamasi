@@ -1,4 +1,4 @@
-# Manav_Uygulamasi – C# Konsol Uygulaması
+# Manav_Uygulamasi
 
 Bu basit C# konsol uygulamasıyla, kullanıcı bir manavdan almak istediği meyveyi seçer ve seçilen meyvenin fiyatı ekrana yazdırılır.
 
