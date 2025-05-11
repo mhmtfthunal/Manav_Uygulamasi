@@ -1,6 +1,4 @@
-# Manav_Uygulamasi
-
-# 🛒 Rüya Manavı – C# Konsol Uygulaması
+# Manav_Uygulamasi – C# Konsol Uygulaması
 
 Bu basit C# konsol uygulamasıyla, kullanıcı bir manavdan almak istediği meyveyi seçer ve seçilen meyvenin fiyatı ekrana yazdırılır.
 
@@ -27,8 +25,8 @@ Koşullu işlemler (`&&`, `||`) gerektirmediğinden dolayı **`if-else` yerine d
 
 ## 🛠 Kullanılan Teknolojiler
 
-- C# (.NET Core / .NET Framework Console App)
-- Visual Studio veya Visual Studio Code
+- C# (.NET Console App)
+- Visual Studio
 
 ---
 
